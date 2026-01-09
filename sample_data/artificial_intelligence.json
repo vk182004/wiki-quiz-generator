@@ -1,0 +1,158 @@
+{
+    "summary": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and so...",
+    "sections": [
+        "Goals",
+        "Techniques",
+        "Applications",
+        "Ethics",
+        "History",
+        "Philosophy",
+        "Future",
+        "In fiction",
+        "Explanatory notes",
+        "Further reading"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "related_topics": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Deep learning",
+        "Neural networks",
+        "Natural language processing",
+        "Robotics",
+        "Computer science"
+    ],
+    "title": "Artificial intelligence",
+    "id": 2,
+    "quiz": [
+        {
+            "question": "What is the capability of computational systems to perform tasks typically associated with human intelligence?",
+            "options": [
+                "Perception and decision-making",
+                "All of the above",
+                "Reasoning and knowledge representation",
+                "Learning and problem-solving"
+            ],
+            "answer": "All of the above",
+            "difficulty": "easy",
+            "explanation": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making."
+        },
+        {
+            "question": "What is the name of the architecture that accelerated the growth of AI after 2017?",
+            "options": [
+                "Neural network architecture",
+                "Transformer architecture",
+                "Graphics processing unit (GPU) architecture",
+                "Deep learning architecture"
+            ],
+            "answer": "Transformer architecture",
+            "difficulty": "medium",
+            "explanation": "The transformer architecture accelerated the growth of AI after 2017."
+        },
+        {
+            "question": "What is the term for the period of rapid progress in advanced generative AI in the 2020s?",
+            "options": [
+                "AI spring",
+                "AI boom",
+                "AI summer",
+                "AI winter"
+            ],
+            "answer": "AI boom",
+            "difficulty": "medium",
+            "explanation": "The term 'AI boom' refers to the period of rapid progress in advanced generative AI in the 2020s."
+        },
+        {
+            "question": "What is the name of the company that aims to create artificial general intelligence (AGI)?",
+            "options": [
+                "Google DeepMind",
+                "OpenAI",
+                "All of the above",
+                "Meta"
+            ],
+            "answer": "All of the above",
+            "difficulty": "medium",
+            "explanation": "Some companies, such as OpenAI, Google DeepMind, and Meta, aim to create artificial general intelligence (AGI)."
+        },
+        {
+            "question": "What is the term for the problem of simulating (or creating) intelligence?",
+            "options": [
+                "The general problem of intelligence",
+                "The general problem of simulating (or creating) intelligence",
+                "The problem of simulating intelligence",
+                "The problem of creating intelligence"
+            ],
+            "answer": "The general problem of simulating (or creating) intelligence",
+            "difficulty": "hard",
+            "explanation": "The general problem of simulating (or creating) intelligence has been broken into subproblems."
+        },
+        {
+            "question": "What is the term for the period of disappointment and loss of funding in AI research?",
+            "options": [
+                "AI winter",
+                "AI summer",
+                "AI boom",
+                "AI spring"
+            ],
+            "answer": "AI winter",
+            "difficulty": "medium",
+            "explanation": "The field of AI research went through multiple cycles of optimism, followed by periods of disappointment and loss of funding, known as AI winters."
+        },
+        {
+            "question": "What is the term for the use of particular tools in AI research?",
+            "options": [
+                "Subfields of AI research",
+                "Particular tools in AI research",
+                "Traditional goals of AI research",
+                "Adapted and integrated techniques"
+            ],
+            "answer": "Particular tools in AI research",
+            "difficulty": "hard",
+            "explanation": "AI researchers have adapted and integrated a wide range of techniques, including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, operations research, and economics."
+        },
+        {
+            "question": "What is the term for the use of probability and economics in AI research?",
+            "options": [
+                "Formal logic",
+                "Search and mathematical optimization",
+                "Artificial neural networks",
+                "Methods based on statistics, operations research, and economics"
+            ],
+            "answer": "Methods based on statistics, operations research, and economics",
+            "difficulty": "medium",
+            "explanation": "Methods were developed for dealing with uncertain or incomplete information, employing concepts from probability and economics."
+        },
+        {
+            "question": "What is the term for the problem of accurate and efficient reasoning in AI?",
+            "options": [
+                "The problem of simulating intelligence",
+                "Accurate and efficient reasoning",
+                "The problem of creating intelligence",
+                "The general problem of intelligence"
+            ],
+            "answer": "Accurate and efficient reasoning",
+            "difficulty": "hard",
+            "explanation": "Accurate and efficient reasoning is an unsolved problem."
+        },
+        {
+            "question": "What is the term for the use of formal knowledge representations in AI?",
+            "options": [
+                "Formal knowledge representations",
+                "Scene interpretation",
+                "Clinical decision support",
+                "Content-based indexing and retrieval"
+            ],
+            "answer": "Formal knowledge representations",
+            "difficulty": "medium",
+            "explanation": "Formal knowledge representations are used in content-based indexing and retrieval, scene interpretation, clinical decision support, knowledge discovery, and other areas."
+        }
+    ],
+    "key_entities": {
+        "people": [],
+        "organizations": [
+            "OpenAI",
+            "Google DeepMind",
+            "Meta"
+        ],
+        "locations": []
+    }
+}

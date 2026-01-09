@@ -1,0 +1,137 @@
+{
+    "summary": "Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalise to unseen data, and thus perform tasks without explicit instructions.[1] Within a subdiscipline in machine learning, advance...",
+    "sections": [
+        "History",
+        "Relationships to other fields",
+        "Theory",
+        "Approaches",
+        "Models",
+        "Applications",
+        "Limitations",
+        "Model assessments",
+        "Ethics",
+        "Hardware",
+        "Software",
+        "Journals",
+        "Conferences",
+        "Sources",
+        "Further reading"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "related_topics": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Deep learning",
+        "Neural networks",
+        "Natural language processing",
+        "Computer vision",
+        "Speech recognition",
+        "Predictive analytics",
+        "Statistics",
+        "Mathematical optimisation"
+    ],
+    "title": "Machine learning",
+    "id": 5,
+    "quiz": [
+        {
+            "question": "Who coined the term 'machine learning' in 1959?",
+            "options": [
+                "Nils Nilsson",
+                "Walter Pitts",
+                "Donald Hebb",
+                "Arthur Samuel"
+            ],
+            "answer": "Arthur Samuel",
+            "difficulty": "easy",
+            "explanation": "Arthur Samuel was an IBM employee and pioneer in the field of computer gaming and artificial intelligence."
+        },
+        {
+            "question": "What is the name of the book published by Donald Hebb in 1949?",
+            "options": [
+                "A History of Machine Learning",
+                "The Organization of Behavior",
+                "Computing Machinery and Intelligence",
+                "Learning Machines"
+            ],
+            "answer": "The Organization of Behavior",
+            "difficulty": "easy",
+            "explanation": "Donald Hebb published the book The Organization of Behavior in 1949."
+        },
+        {
+            "question": "What is the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?",
+            "options": [
+                "Teaching Machine",
+                "Learning Machine",
+                "Pattern Recognizer",
+                "Cybertron"
+            ],
+            "answer": "Cybertron",
+            "difficulty": "medium",
+            "explanation": "Cybertron was an experimental 'learning machine' developed by Raytheon Company to analyse sonar signals, electrocardiograms, and speech patterns."
+        },
+        {
+            "question": "Who proposed the early mathematical models of neural networks?",
+            "options": [
+                "Walter Pitts",
+                "Warren McCulloch",
+                "Arthur Samuel",
+                "Nils Nilsson"
+            ],
+            "answer": "Walter Pitts and Warren McCulloch",
+            "difficulty": "medium",
+            "explanation": "Walter Pitts and Warren McCulloch proposed the early mathematical models of neural networks to come up with algorithms that mirror human thought processes."
+        },
+        {
+            "question": "What is the name of the report given in 1981 on using teaching strategies for an artificial neural network?",
+            "options": [
+                "Learning from Experience",
+                "Neural Network Learning",
+                "Pattern Recognition",
+                "Teaching Strategies"
+            ],
+            "answer": "Neural Network Learning",
+            "difficulty": "hard",
+            "explanation": "A report was given on using teaching strategies so that an artificial neural network learns to recognise 40 characters from a computer terminal in 1981."
+        },
+        {
+            "question": "Who provided a widely quoted definition of the algorithms studied in the machine learning field?",
+            "options": [
+                "Alan Turing",
+                "Tom M. Mitchell",
+                "Nils Nilsson",
+                "Arthur Samuel"
+            ],
+            "answer": "Tom M. Mitchell",
+            "difficulty": "medium",
+            "explanation": "Tom M. Mitchell provided a widely quoted, more formal definition of the algorithms studied in the machine learning field."
+        },
+        {
+            "question": "What is the name of the paper by Alan Turing that proposed a fundamentally operational definition of machine learning?",
+            "options": [
+                "Machine Learning and Intelligence",
+                "A History of Machine Learning",
+                "The Organization of Behavior",
+                "Computing Machinery and Intelligence"
+            ],
+            "answer": "Computing Machinery and Intelligence",
+            "difficulty": "hard",
+            "explanation": "Alan Turing's paper 'Computing Machinery and Intelligence' proposed a fundamentally operational definition of machine learning."
+        }
+    ],
+    "key_entities": {
+        "people": [
+            "Arthur Samuel",
+            "Donald Hebb",
+            "Walter Pitts",
+            "Warren McCulloch",
+            "Nils Nilsson",
+            "Tom M. Mitchell",
+            "Alan Turing"
+        ],
+        "organizations": [
+            "IBM",
+            "Raytheon Company"
+        ],
+        "locations": []
+    }
+}

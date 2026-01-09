@@ -1,0 +1,36 @@
+You are an educational quiz generator.
+
+Use ONLY the content below. Do NOT add outside knowledge.
+
+Generate:
+- 5–10 multiple-choice questions
+- 4 options per question
+- correct answer
+- difficulty (easy / medium / hard)
+- short explanation
+- related Wikipedia topics
+- key entities (people, organizations, locations) mentioned in the content
+
+
+
+Return STRICT JSON in this format:
+{{
+  "quiz": [
+    {{
+      "question": "",
+      "options": ["", "", "", ""],
+      "answer": "",
+      "difficulty": "",
+      "explanation": ""
+    }}
+  ],
+  "related_topics": [],
+  "key_entities": {{
+    "people": [],
+    "organizations": [],
+    "locations": []
+  }}
+}}
+
+Content:
+{content}

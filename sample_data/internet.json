@@ -1,0 +1,173 @@
+{
+    "summary": "The Internet (or internet)[a] is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP)[b] to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to gl...",
+    "sections": [
+        "Terminology",
+        "History",
+        "Social impact",
+        "Applications and services",
+        "Governance",
+        "Infrastructure",
+        "Internet Protocol Suite",
+        "Security",
+        "Performance",
+        "Sources",
+        "Further reading"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Internet",
+    "related_topics": [
+        "Internet",
+        "World Wide Web",
+        "Intranet",
+        "Extranet",
+        "ICANN",
+        "IETF",
+        "DARPA",
+        "ARPA"
+    ],
+    "title": "Internet",
+    "id": 4,
+    "quiz": [
+        {
+            "question": "What is the global system of interconnected computer networks called?",
+            "options": [
+                "Extranet",
+                "Internet",
+                "World Wide Web",
+                "Intranet"
+            ],
+            "answer": "Internet",
+            "difficulty": "easy",
+            "explanation": "The Internet is a network of networks that comprises private, public, academic, business, and government networks of local to global scope."
+        },
+        {
+            "question": "What is the organization that maintains the definitions of the two principal name spaces on the Internet?",
+            "options": [
+                "ARPA",
+                "ICANN",
+                "IETF",
+                "DARPA"
+            ],
+            "answer": "ICANN",
+            "difficulty": "medium",
+            "explanation": "The Internet Corporation for Assigned Names and Numbers (ICANN) is responsible for the overarching definitions of the two principal name spaces on the Internet."
+        },
+        {
+            "question": "Who proposed the idea of a universal network?",
+            "options": [
+                "Vint Cerf",
+                "Paul Baran",
+                "Donald Davies",
+                "J. C. R. Licklider"
+            ],
+            "answer": "J. C. R. Licklider",
+            "difficulty": "medium",
+            "explanation": "J. C. R. Licklider proposed the idea of a universal network while working at Bolt Beranek & Newman and, later, leading the Information Processing Techniques Office at the Advanced Research Projects Agency (ARPA)."
+        },
+        {
+            "question": "What is the activity of the non-profit Internet Engineering Task Force (IETF)?",
+            "options": [
+                "Standardizing the core protocols",
+                "Providing access to the Internet",
+                "Developing new Internet protocols",
+                "Maintaining the definitions of the two principal name spaces on the Internet"
+            ],
+            "answer": "Standardizing the core protocols",
+            "difficulty": "hard",
+            "explanation": "The technical underpinning and standardization of the core protocols is an activity of the non-profit Internet Engineering Task Force (IETF)."
+        },
+        {
+            "question": "When was the word 'internetted' first used?",
+            "options": [
+                "1965",
+                "1974",
+                "1849",
+                "1945"
+            ],
+            "answer": "1849",
+            "difficulty": "easy",
+            "explanation": "The word 'internetted' was used as early as 1849, meaning interconnected or interwoven."
+        },
+        {
+            "question": "What is the global collection of web pages, documents and other web resources linked by hyperlinks and URLs?",
+            "options": [
+                "World Wide Web",
+                "Extranet",
+                "Internet",
+                "Intranet"
+            ],
+            "answer": "World Wide Web",
+            "difficulty": "medium",
+            "explanation": "The World Wide Web, or the Web, is the global collection of web pages, documents and other web resources linked by hyperlinks and URLs."
+        },
+        {
+            "question": "Who developed packet switching technology independently in 1965?",
+            "options": [
+                "Paul Baran",
+                "Donald Davies",
+                "Vint Cerf",
+                "J. C. R. Licklider"
+            ],
+            "answer": "Donald Davies",
+            "difficulty": "hard",
+            "explanation": "Research into packet switching started in the work of Paul Baran at RAND in the early 1960s and, independently, Donald Davies at the United Kingdom's National Physical Laboratory in 1965."
+        },
+        {
+            "question": "What is the organization that commissioned research and development for the Internet in the 1970s?",
+            "options": [
+                "ICANN",
+                "DARPA",
+                "IETF",
+                "ARPA"
+            ],
+            "answer": "DARPA",
+            "difficulty": "medium",
+            "explanation": "The Defense Advanced Research Projects Agency (DARPA) of the United States Department of Defense commissioned research and development for the Internet in the 1970s."
+        },
+        {
+            "question": "What is the term for a group of smaller networks?",
+            "options": [
+                "Internet",
+                "Extranet",
+                "Network",
+                "Intranet"
+            ],
+            "answer": "Network",
+            "difficulty": "easy",
+            "explanation": "The term Internet may also refer to any group of smaller networks."
+        },
+        {
+            "question": "What is the organization that recommends the lowercase form of the word 'Internet'?",
+            "options": [
+                "ICANN",
+                "AP Stylebook",
+                "IETF",
+                "DARPA"
+            ],
+            "answer": "AP Stylebook",
+            "difficulty": "medium",
+            "explanation": "The AP Stylebook recommends the lowercase form of the word 'Internet' in every case."
+        }
+    ],
+    "key_entities": {
+        "people": [
+            "J. C. R. Licklider",
+            "Paul Baran",
+            "Donald Davies",
+            "Vint Cerf"
+        ],
+        "organizations": [
+            "ICANN",
+            "IETF",
+            "DARPA",
+            "ARPA",
+            "Bolt Beranek & Newman",
+            "RAND",
+            "National Physical Laboratory"
+        ],
+        "locations": [
+            "United States",
+            "United Kingdom",
+            "France"
+        ]
+    }
+}

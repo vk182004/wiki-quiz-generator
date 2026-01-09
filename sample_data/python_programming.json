@@ -1,0 +1,161 @@
+{
+    "summary": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[34] Python is dynamically type-checked and garbage-collected. It supports multiple programming paradigms, including structured (particularly proced...",
+    "sections": [
+        "History",
+        "Design philosophy and features",
+        "Syntax and semantics",
+        "Code examples",
+        "Libraries",
+        "Development environments",
+        "Implementations",
+        "Language Development",
+        "Naming",
+        "Languages influenced by Python",
+        "Further reading"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    "related_topics": [
+        "Python (programming language)",
+        "Guido van Rossum",
+        "Python Software Foundation",
+        "Centrum Wiskunde & Informatica",
+        "ABC (programming language)",
+        "SETL"
+    ],
+    "title": "Python (programming language)",
+    "id": 3,
+    "quiz": [
+        {
+            "question": "What is the design philosophy of Python?",
+            "options": [
+                "Code readability with the use of significant comments",
+                "Code readability with the use of significant functions",
+                "Code readability with the use of significant indentation",
+                "Code readability with the use of significant variables"
+            ],
+            "answer": "Code readability with the use of significant indentation",
+            "difficulty": "easy",
+            "explanation": "Python's design philosophy emphasizes code readability with the use of significant indentation."
+        },
+        {
+            "question": "What is the name of the organization that supports Python?",
+            "options": [
+                "Python Development Team",
+                "Python Software Foundation",
+                "Python Community Group",
+                "Python User Association"
+            ],
+            "answer": "Python Software Foundation",
+            "difficulty": "easy",
+            "explanation": "The Python Software Foundation supports Python 3.10, 3.11, 3.12, 3.13, and 3.14."
+        },
+        {
+            "question": "Who conceived Python in the late 1980s?",
+            "options": [
+                "Bob Johnson",
+                "Jane Doe",
+                "John Smith",
+                "Guido van Rossum"
+            ],
+            "answer": "Guido van Rossum",
+            "difficulty": "easy",
+            "explanation": "Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands."
+        },
+        {
+            "question": "What is the name of the British comedy series that inspired the name of Python?",
+            "options": [
+                "The Comedy Circus",
+                "The Flying Python",
+                "Monty Python's Flying Circus",
+                "The Python Show"
+            ],
+            "answer": "Monty Python's Flying Circus",
+            "difficulty": "easy",
+            "explanation": "The name Python derives from the British comedy series Monty Python's Flying Circus."
+        },
+        {
+            "question": "What is the name of the unofficial Python implementation that continues to support Python 2?",
+            "options": [
+                "PySpark",
+                "PyCharm",
+                "PyPy",
+                "PyTorch"
+            ],
+            "answer": "PyPy",
+            "difficulty": "medium",
+            "explanation": "A different unofficial Python implementation, PyPy, continues to support Python 2, i.e., '2.7.18+' (plus 3.11), with the plus signifying (at least some) 'backported security updates'."
+        },
+        {
+            "question": "What is the name of the title bestowed on Guido van Rossum by the Python community?",
+            "options": [
+                "Project Manager",
+                "Lead Developer",
+                "Chief Decision-Maker",
+                "Benevolent Dictator for Life"
+            ],
+            "answer": "Benevolent Dictator for Life",
+            "difficulty": "medium",
+            "explanation": "The title 'Benevolent Dictator for Life' (BDFL) was bestowed on Guido van Rossum by the Python community to reflect his long-term commitment as the project's chief decision-maker."
+        },
+        {
+            "question": "What is the name of the organization where Guido van Rossum worked when he started working on Python?",
+            "options": [
+                "Python Community Group",
+                "Python Software Foundation",
+                "Centrum Wiskunde & Informatica",
+                "Python Development Team"
+            ],
+            "answer": "Centrum Wiskunde & Informatica",
+            "difficulty": "medium",
+            "explanation": "Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands."
+        },
+        {
+            "question": "What is the name of the programming language that inspired the creation of Python?",
+            "options": [
+                "Java",
+                "SETL",
+                "ABC",
+                "C++"
+            ],
+            "answer": "ABC",
+            "difficulty": "hard",
+            "explanation": "Python was designed as a successor to the ABC programming language, which was inspired by SETL."
+        },
+        {
+            "question": "What is the name of the index that ranks programming languages based on searches in 24 platforms?",
+            "options": [
+                "TIOBE Programming Community Index",
+                "Search Engine Index",
+                "Python Programming Community Index",
+                "Programming Language Index"
+            ],
+            "answer": "TIOBE Programming Community Index",
+            "difficulty": "hard",
+            "explanation": "Python has consistently ranked in the top ten of the most popular programming languages in the TIOBE Programming Community Index."
+        },
+        {
+            "question": "What is the name of the release cycle of Python?",
+            "options": [
+                "Annual Release Cycle",
+                "Five-Year Release Cycle",
+                "Tri-Annual Release Cycle",
+                "Bi-Annual Release Cycle"
+            ],
+            "answer": "Annual Release Cycle",
+            "difficulty": "hard",
+            "explanation": "The project follows the project's annual release cycle and five-year support policy."
+        }
+    ],
+    "key_entities": {
+        "people": [
+            "Guido van Rossum"
+        ],
+        "organizations": [
+            "Python Software Foundation",
+            "Centrum Wiskunde & Informatica"
+        ],
+        "locations": [
+            "Netherlands"
+        ]
+    }
+}

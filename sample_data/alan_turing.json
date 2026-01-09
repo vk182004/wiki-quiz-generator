@@ -1,0 +1,179 @@
+{
+    "summary": "Alan Mathison Turing (/ˈtjʊərɪŋ/; 23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist.[6] He was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of...",
+    "sections": [
+        "Early life and education",
+        "Career and research",
+        "Personal life",
+        "Death",
+        "Government apology and pardon",
+        "Further reading"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+    "related_topics": [
+        "Alan Turing",
+        "Computer science",
+        "Codebreaking",
+        "World War II",
+        "Mathematics",
+        "Bletchley Park",
+        "National Physical Laboratory",
+        "University of Manchester"
+    ],
+    "title": "Alan Turing",
+    "id": 1,
+    "quiz": [
+        {
+            "question": "Where did Alan Turing work during World War II?",
+            "options": [
+                "National Physical Laboratory",
+                "University of Manchester",
+                "King's College, Cambridge",
+                "Bletchley Park"
+            ],
+            "answer": "Bletchley Park",
+            "difficulty": "easy",
+            "explanation": "Alan Turing worked at the Government Code and Cypher School at Bletchley Park, Britain's codebreaking centre during World War II."
+        },
+        {
+            "question": "What was the name of the machine that Alan Turing improved upon to break German ciphers?",
+            "options": [
+                "Enigma machine",
+                "Bomba machine",
+                "Turing machine",
+                "Colossus machine"
+            ],
+            "answer": "Bomba machine",
+            "difficulty": "medium",
+            "explanation": "Alan Turing improved upon the pre-war Polish bomba method, an electromechanical machine that could find settings for the Enigma machine."
+        },
+        {
+            "question": "What was the name of the laboratory where Alan Turing worked at the University of Manchester?",
+            "options": [
+                "National Physical Laboratory",
+                "Government Code and Cypher School",
+                "Computing Machine Laboratory",
+                "King's College, Cambridge"
+            ],
+            "answer": "Computing Machine Laboratory",
+            "difficulty": "medium",
+            "explanation": "Alan Turing joined Max Newman's Computing Machine Laboratory at the University of Manchester in 1948."
+        },
+        {
+            "question": "What was the name of the law that retroactively pardoned men cautioned or convicted under historical legislation that outlawed homosexual acts in the UK?",
+            "options": [
+                "British Homosexual Act",
+                "Homosexual Decriminalization Act",
+                "UK Homosexual Pardon Act",
+                "Alan Turing law"
+            ],
+            "answer": "Alan Turing law",
+            "difficulty": "hard",
+            "explanation": "The term 'Alan Turing law' is used informally to refer to a 2017 law in the UK that retroactively pardoned men cautioned or convicted under historical legislation that outlawed homosexual acts."
+        },
+        {
+            "question": "Who was the British prime minister who made an official public apology for the way Alan Turing was treated?",
+            "options": [
+                "David Cameron",
+                "Tony Blair",
+                "Gordon Brown",
+                "Margaret Thatcher"
+            ],
+            "answer": "Gordon Brown",
+            "difficulty": "easy",
+            "explanation": "British prime minister Gordon Brown made an official public apology for 'the appalling way [Turing] was treated' in 2009."
+        },
+        {
+            "question": "What was the name of the machine that Alan Turing designed at the National Physical Laboratory?",
+            "options": [
+                "Colossus machine",
+                "Bomba machine",
+                "Automatic Computing Engine",
+                "Turing machine"
+            ],
+            "answer": "Automatic Computing Engine",
+            "difficulty": "medium",
+            "explanation": "Alan Turing designed the Automatic Computing Engine, one of the first designs for a stored-program computer, at the National Physical Laboratory."
+        },
+        {
+            "question": "Where was Alan Turing born?",
+            "options": [
+                "King's College, Cambridge",
+                "Bletchley Park",
+                "University of Manchester",
+                "Maida Vale, London"
+            ],
+            "answer": "Maida Vale, London",
+            "difficulty": "easy",
+            "explanation": "Alan Turing was born in Maida Vale, London, on 23 June 1912."
+        },
+        {
+            "question": "Who was the chief engineer of the Madras Railways?",
+            "options": [
+                "John Robert Turing",
+                "Julius Mathison Turing",
+                "Max Newman",
+                "Edward Waller Stoney"
+            ],
+            "answer": "Edward Waller Stoney",
+            "difficulty": "hard",
+            "explanation": "Edward Waller Stoney was the chief engineer of the Madras Railways and the father of Ethel Sara Turing."
+        },
+        {
+            "question": "What was the name of the book that Alan Turing credited with opening his eyes to science?",
+            "options": [
+                "The Science of Science",
+                "The History of Science",
+                "Natural Wonders Every Child Should Know",
+                "The Future of Science"
+            ],
+            "answer": "Natural Wonders Every Child Should Know",
+            "difficulty": "medium",
+            "explanation": "Alan Turing credited the book 'Natural Wonders Every Child Should Know' by Edwin Tenney Brewster with opening his eyes to science."
+        },
+        {
+            "question": "Who was the baronet of the Turing baronets?",
+            "options": [
+                "Dermot Turing",
+                "Alan Turing",
+                "John Ferrier Turing",
+                "Julius Mathison Turing"
+            ],
+            "answer": "Dermot Turing",
+            "difficulty": "hard",
+            "explanation": "Dermot Turing was the son of John Ferrier Turing, who was the elder brother of Alan Turing and the 12th Baronet of the Turing baronets."
+        }
+    ],
+    "key_entities": {
+        "people": [
+            "Alan Turing",
+            "Julius Mathison Turing",
+            "Ethel Sara Turing",
+            "Edward Waller Stoney",
+            "John Robert Turing",
+            "Max Newman",
+            "Gordon Brown",
+            "Douglas Hofstadter"
+        ],
+        "organizations": [
+            "Government Code and Cypher School",
+            "National Physical Laboratory",
+            "University of Manchester",
+            "King's College, Cambridge",
+            "Indian Civil Service",
+            "British Raj"
+        ],
+        "locations": [
+            "Maida Vale, London",
+            "Bletchley Park",
+            "University of Manchester",
+            "King's College, Cambridge",
+            "Madras Presidency",
+            "Odisha state",
+            "India",
+            "County Tipperary",
+            "County Longford",
+            "County Clare",
+            "Dublin"
+        ]
+    }
+}

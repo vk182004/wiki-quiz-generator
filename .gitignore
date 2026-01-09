@@ -1,0 +1,31 @@
+# Create the file with all content at once
+@"
+# ========== PYTHON (Backend) ==========
+__pycache__/
+*.py[cod]
+*`$py.class
+*.pyc
+venv/
+env/
+backend/venv/
+.env
+backend/.env
+
+# ========== NODE.JS (Frontend) ==========
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+package-lock.json
+frontend/build/
+frontend/dist/
+*.log
+
+# ========== IDE & OS ==========
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+"@ | Out-File -FilePath .gitignore -Encoding UTF8
