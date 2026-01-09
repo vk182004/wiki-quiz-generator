@@ -3,6 +3,8 @@ import QuizCard from "../QuizCard";
 import { FaSpinner, FaCheck, FaExclamationTriangle, FaExternalLinkAlt, FaBook } from "react-icons/fa";
 import "./index.css";
 
+const API_BASE = "https://wiki-quiz-generator-jdgi.onrender.com";
+
 // Main component for generating and taking quizzes
 const GenerateQuiz = () => {
   // State variables for URL input, preview, quiz data, and UI status
@@ -33,7 +35,7 @@ const GenerateQuiz = () => {
 
     try {
       const res = await fetch(
-        `http://127.0.0.1:8000/preview?url=${encodeURIComponent(value)}`
+        `${API_BASE}/preview?url=${encodeURIComponent(value)}`
       );
       if (!res.ok) throw new Error("Article not found");
 
@@ -61,7 +63,7 @@ const GenerateQuiz = () => {
       setError("");
 
       const res = await fetch(
-        `http://127.0.0.1:8000/generate?url=${encodeURIComponent(url)}`,
+        `${API_BASE}/generate?url=${encodeURIComponent(url)}`,
         { method: "POST" }
       );
 
