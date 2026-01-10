@@ -3,7 +3,7 @@ import QuizModal from "../QuizModal";
 import { FaEye, FaPlay, FaHashtag } from "react-icons/fa";
 import "./index.css";
 
-const API_BASE = "https://wiki-quiz-generator-jdgi.onrender.com";
+const API_BASE = process.env.REACT_APP_API_URL || "https://wiki-quiz-generator-jdgi.onrender.com";
 
 // Shows a list of previously generated quizzes
 const History = () => {
