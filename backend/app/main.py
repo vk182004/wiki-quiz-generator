@@ -1,6 +1,7 @@
 from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
+from pydantic import BaseModel
 import json
 import random
 
@@ -32,6 +33,10 @@ def get_db():
     finally:
         db.close()
 
+# Request body schema for URL
+class UrlRequest(BaseModel):
+    url: str
+
 # Shuffle options so the correct answer isn't always in the same position
 def shuffle_quiz_options(quiz_list):
     for q in quiz_list:
@@ -48,16 +53,18 @@ def shuffle_quiz_options(quiz_list):
             options[0] = correct
 
 # Preview endpoint – just returns the article title
-@app.get("/preview")
-def preview_article(url: str):
-    scraped = scrape_wikipedia(url)
+@app.post("/preview")
+def preview_article(data: UrlRequest):
+    scraped = scrape_wikipedia(data.url)
     return {
         "title": scraped["title"]
     }
 
 # Generate quiz from a Wikipedia URL
 @app.post("/generate")
-def generate_quiz_api(url: str, db: Session = Depends(get_db)):
+def generate_quiz_api(data: UrlRequest, db: Session = Depends(get_db)):
+
+    url = data.url
 
     # Check if quiz already exists for this URL
     existing = crud.get_quiz_by_url(db, url)
