@@ -34,9 +34,12 @@ const GenerateQuiz = () => {
     }
 
     try {
-      const res = await fetch(
-        `${API_BASE}/preview?url=${encodeURIComponent(value)}`
-      );
+      const res = await fetch(`${API_BASE}/preview`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ url: value })
+      });
+
       if (!res.ok) throw new Error("Article not found");
 
       const data = await res.json();
@@ -62,10 +65,11 @@ const GenerateQuiz = () => {
       setLoading(true);
       setError("");
 
-      const res = await fetch(
-        `${API_BASE}/generate?url=${encodeURIComponent(url)}`,
-        { method: "POST" }
-      );
+      const res = await fetch(`${API_BASE}/generate`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ url })
+      });
 
       if (!res.ok) throw new Error("Failed to generate quiz");
 
