@@ -3,6 +3,8 @@ import QuizModal from "../QuizModal";
 import { FaEye, FaPlay, FaHashtag } from "react-icons/fa";
 import "./index.css";
 
+const API_BASE = "https://wiki-quiz-generator-jdgi.onrender.com";
+
 // Shows a list of previously generated quizzes
 const History = () => {
   // State for quiz history, selected quiz, and UI status
@@ -21,7 +23,7 @@ const History = () => {
   const fetchHistory = async () => {
     try {
       setLoading(true);
-      const res = await fetch("http://127.0.0.1:8000/history");
+      const res = await fetch(`${API_BASE}/history`);
 
       if (!res.ok) throw new Error("Failed to fetch history");
 
