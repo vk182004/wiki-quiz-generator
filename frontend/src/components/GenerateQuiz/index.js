@@ -3,7 +3,7 @@ import QuizCard from "../QuizCard";
 import { FaSpinner, FaCheck, FaExclamationTriangle, FaExternalLinkAlt, FaBook } from "react-icons/fa";
 import "./index.css";
 
-const API_BASE = "https://wiki-quiz-generator-jdgi.onrender.com";
+const API_BASE = process.env.REACT_APP_API_URL || "https://wiki-quiz-generator-jdgi.onrender.com";
 
 // Main component for generating and taking quizzes
 const GenerateQuiz = () => {
