@@ -19,12 +19,22 @@ Features
 
 
 Tech Stack
-- Frontend: React
-- Backend: FastAPI
-- Database: PostgreSQL
-- LLM: Groq (via LangChain)
-- Web Scraping: BeautifulSoup
+Frontend
+- React(Create React App)
+- deployed on vercel
 
+Backend
+- FastAPI
+- Deployed on Render
+
+Database
+- PostgreSQL
+
+AI/LLM
+- Groq (via LangChain)
+
+Web Scraping
+- BeautifulSoup
 
 Project Structure
 WikiQuiz/
@@ -34,6 +44,12 @@ WikiQuiz/
   |- screenshots/
   |- README.md
   |_ prompts.txt
+
+Live Deployment
+- Frontend(Vercel):
+  https://wiki-quiz-generator-virid.vercel.app/
+- Backend (Render):
+  https://wiki-quiz-generator-jdgi.onrender.com
 
 
 Setup Instructions
@@ -61,11 +77,15 @@ Frontend Setup
 The app will run at:
 http://localhost:3000
 
+Environment Variables (Production)
+Frontend (Vercel)
+- REACT_APP_API_URL=https://wiki-quiz-generator-jdgi.onrender.com
+
 
 API Endpoints
 1. Preview Article
 
-GET /preview?url=
+POST /preview?url=
 Returns the article title for validation.
 
 2. Generate Quiz
@@ -78,12 +98,8 @@ Scrapes the article, generates a quiz using the LLM, and stores the data.
 GET /history
 Returns all previously generated quizzes from the database.
 
-4. API Base URL
-Base URL: http://127.0.0.1:8000
 
-
-
-How to Test the Application
+How to Use the Application
 
 1. Open the frontend in your browser
 2. Paste a Wikipedia URL
